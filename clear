@@ -1,0 +1,74 @@
+[33mcommit 6d5d4d2c051ac10f9966d8aa83995ebf0c5cce0a[m[33m ([m[1;36mHEAD -> [m[1;32mfirstfile[m[33m)[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 17:03:13 2022 +0300
+
+    Побавлен файл main в source
+
+[33mcommit 7ece3a6edb2e2a112989cda5ab776bbe6154e24b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 7ad95a7 47401d7
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 17:07:32 2022 +0300
+
+    Merge branch 'main' of github.com:dmbachinin/project
+
+[33mcommit 7ad95a7818e89462944325652b35d7206e854a86[m[33m ([m[1;31morigin/newfile[m[33m, [m[1;32mnewfile[m[33m)[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 16:49:17 2022 +0300
+
+    Дополнительные программы
+
+[33mcommit 47401d757a5c5c3bfa5885e98a04e5f64a964bc1[m
+Merge: 33ce5f1 927c13a
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 16:41:07 2022 +0300
+
+    Merge remote-tracking branch 'origin/gui-br' into main
+
+[33mcommit 927c13a26ae4c14c01b0dc79caa62b767e4f7a2a[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 16:40:21 2022 +0300
+
+    Обновление в кракене
+
+[33mcommit 33ce5f1176f350f84f8b3fb244e838ba3e9049ee[m
+Merge: 94be55f f5f997f
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 16:15:52 2022 +0300
+
+    Merge branch 'dev'
+
+[33mcommit 94be55f58b5b326a4452695f916b4c6f82424fc3[m[33m ([m[1;33mtag: 1.0.1[m[33m)[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 15:59:15 2022 +0300
+
+    Добавил контент в new.go
+
+[33mcommit f7e81d3ecbcb694d4acd4670e17f01c3b9f6e708[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 15:56:01 2022 +0300
+
+    Создан файл new.go
+
+[33mcommit afc5a6ca8c7ad11da1692c1c7dbe0fd1a4b4a148[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Sun Jan 2 15:42:47 2022 +0300
+
+    Создан файл txt.md
+
+[33mcommit f5f997f83ddeb9953ad1c1d29f3aabd2881c2954[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: dmbachinin <96818725+dmbachinin@users.noreply.github.com>
+Date:   Thu Dec 30 15:39:18 2021 +0300
+
+    Update dev.md
+
+[33mcommit 51da08fb596f692be33e8a18e8ec0b72aa534d68[m
+Author: Dmitry Bachinin <d79123244656@yandex.ru>
+Date:   Thu Dec 30 15:32:17 2021 +0300
+
+    Создан файл dev.md
+
+[33mcommit 3af801d2ed94cc16abc7c09a02d067c3b1af9f37[m
+Author: dmbachinin <96818725+dmbachinin@users.noreply.github.com>
+Date:   Thu Dec 30 15:21:19 2021 +0300
+
+    Initial commit
